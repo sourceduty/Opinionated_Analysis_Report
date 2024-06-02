@@ -10,7 +10,7 @@ When the document is analyzed, the program tokenizes the text and removes common
 
 The core of the analysis is the "Opinionated Analysis" section, which combines insights about the document's content with the selected personality traits. This section includes an introduction, key themes, emotional tone, structure, language, and a summary of the personality traits. The report is displayed in the GUI, and the user can choose to export it as a text file.
 
-----------------------------------------------------------------------------------------------------------------------------------
+#
 
 This block diagram outlines the main processes involved in the program, from initialization to generating and exporting the opinionated analysis report. Each step is essential to ensure that the document is analyzed comprehensively and the results reflect the selected personality traits.
 
