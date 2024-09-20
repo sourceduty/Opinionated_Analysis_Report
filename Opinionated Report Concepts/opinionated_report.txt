@@ -1,0 +1,126 @@
+Opinionated News Report
+Report Type: Automatic Summary
+
+Overall Summary:
+Total Articles Reviewed: 12
+Average Opinion Score: 0.00
+The articles reviewed show limited support for international values and may face some controversy or resistance.
+
+Detailed Analysis:
+
+Source: nytimes.com
+Title: World News - The New York Times
+Opinion Score: 0.00
+Comments: This article shows limited alignment with international values and may present a biased or controversial viewpoint.
+
+Snippet: Advertisement Supported by Israel carried out one of the most intense bombardments of the past year, as warplanes launched 70 airstrikes, Lebanese security officials said. The barrage came shortly after Hezbollah’s leader vowed to respond after explosions of pagers and walkie-talkies killed at least 37 people.   In Gaza, Lebanon and Iran, Israel has shown it’s capable of extraordinary acts of espionage, but is struggling to define long-term goals, according to Israeli analysts and public figures...
+--------------------------------------------------
+
+Source: cnn.com
+Title: World news - breaking news, video, headlines and opinion | CNN
+Opinion Score: 0.00
+Comments: This article shows limited alignment with international values and may present a biased or controversial viewpoint.
+
+Snippet: Show all Show all Show all Show all Show all Show all Show all Show all Show all Show all Show all © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network....
+--------------------------------------------------
+
+Source: bbc.com
+Title: World | Latest News & Updates | BBC News
+Opinion Score: 0.01
+Comments: This article shows limited alignment with international values and may present a biased or controversial viewpoint.
+
+Snippet: Israeli air strikes come after Hezbollah vowed to retaliate over deadly exploding device attacks blamed on Israel. Elias Jaradeh worked for almost 24 hours on the wounded, many of whom lost eyes or the use of their hands. US Coast Guard inquiry hears that malfunction caused passengers to "tumble about" inside sub. District Judge Kevin Mullins was shot and killed in his chambers after an argument, police say. The tour will kick off in her home country Australia in February, before swinging throug...
+--------------------------------------------------
+
+Source: npr.org
+Title: News: U.S. and World News Headlines : NPR
+Opinion Score: 0.00
+Comments: This article shows limited alignment with international values and may present a biased or controversial viewpoint.
+
+Snippet: 
+                Los Angeles Dodgers' Shohei Ohtani reacts after hitting his 50th home run of the season during the seventh inning of a baseball game against the Miami Marlins on Sept. 19, 2024, in Miami. 
+                
+                    
+                    Marta Lavandier/AP
+                    
+                
+hide caption
+ September 19, 2024 • The Los Angeles Dodgers star reached the 50-50 milestone in his 150th game. He was already the sixth player in MLB history and the fastest ever ...
+--------------------------------------------------
+
+Source: foxnews.com
+Title: World News Today Updates & Daily Headlines  | Fox News
+Opinion Score: 0.00
+Comments: This article shows limited alignment with international values and may present a biased or controversial viewpoint.
+
+Snippet: 
+      This material may not be published, broadcast, rewritten,
+      or redistributed. ©2024 FOX News Network, LLC. All rights reserved.
+      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by
+      Factset. Powered and implemented by
+      FactSet Digital Solutions.
+      Legal Statement. Mutual Fund and ETF data provided by
+      Refinitiv Lipper.
+     Get all the stories you need-to-know from the most powerful name in news delivered first thing every m...
+--------------------------------------------------
+
+Source: nbcnews.com
+Title: World News: Latest International Headlines, Video, and Breaking Stories From Around The Globe | NBC News
+Opinion Score: 0.01
+Comments: This article shows limited alignment with international values and may present a biased or controversial viewpoint.
+
+Snippet:  Profile Sections tv Featured More From NBC Follow NBC News There are no new alerts at this time © 2024 NBC UNIVERSAL...
+--------------------------------------------------
+
+Source: aljazeera.com
+Title: News | Today's latest from Al Jazeera
+Opinion Score: 0.00
+Comments: This article shows limited alignment with international values and may present a biased or controversial viewpoint.
+
+Snippet: Player becomes first in MLB to record 50 home runs and 50 stolen bases in a single season. Wall Street Journal cites multiple US officials saying they are sceptical a ceasefire can be achieved before January. As the war enters its 938th day, these are the main developments. Israeli soldiers filmed pushing the bodies of four Palestinians off a roof in the West Bank’s Qabatiya. Israeli defence minister says Hezbollah to ‘pay an increasing price’ as group promises retaliation over device attacks. C...
+--------------------------------------------------
+
+Source: economist.com
+Title: The Economist | Independent journalism
+Opinion Score: 0.00
+Comments: This article shows limited alignment with international values and may present a biased or controversial viewpoint.
+
+Snippet: Try AI-powered search A race is on to push artificial intelligence beyond today’s limits  United States Buckets of money, vicious advertising and consultants galore have left the race for the state a virtual tie  International Russia and China are riding a surge of support for the Palestinians since the Gaza war started  Business A protracted strike could cause lasting damage America warned all parties against escalation in the Middle East as Israel and Hizbullah, an Iran-backed militia, exchang...
+--------------------------------------------------
+
+Source: bloomberg.com
+Title: Bloomberg - Are you a robot?
+Opinion Score: 0.00
+Comments: This article shows limited alignment with international values and may present a biased or controversial viewpoint.
+
+Snippet: To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not
+            blocking them from loading.
+            For more information you can review our Terms of
+                Service and Cookie Policy. For inquiries related to this message please contact
+            our support team and provide the reference ID below....
+--------------------------------------------------
+
+Source: apnews.com
+Title: Associated Press News: Breaking News, Latest Headlines and Videos | AP News
+Opinion Score: 0.00
+Comments: This article shows limited alignment with international values and may present a biased or controversial viewpoint.
+
+Snippet: Copyright 2024 The Associated Press. All Rights Reserved. Women sit in a cemetery as they visit the graves of killed Hezbollah members in the southern suburbs of Beirut, Thursday, Sept. 19, 2024. (AP Photo/Hussein Malla) Israel’s defense minister has declared the start of a “new phase” of the war as Israel turns its focus toward the northern front against Hezbollah militants in Lebanon. Democratic presidential nominee Vice President Kamala Harris speaks at Congressional Hispanic Caucus Institute...
+--------------------------------------------------
+
+Source: ft.com
+Title: World
+Opinion Score: 0.00
+Comments: This article shows limited alignment with international values and may present a biased or controversial viewpoint.
+
+Snippet: Hassan Nasrallah says pager and walkie-talkie detonations are ‘major security and military blow’ Hedge fund manager and Republican megadonor shifts position on trade and decoupling with China  Drop in electric vehicle sales puts manufacturers at risk of ‘multibillion-euro’ fines and production cuts Potential rival to authoritarian leader Kais Saied imprisoned for 20 months ahead of October poll  Defence minister says Taipei will not have as long to respond to any emergency as in the past Neither...
+--------------------------------------------------
+
+Source: time.com
+Title: World | Time
+Opinion Score: 0.00
+Comments: This article shows limited alignment with international values and may present a biased or controversial viewpoint.
+
+Snippet: ...
+--------------------------------------------------
+

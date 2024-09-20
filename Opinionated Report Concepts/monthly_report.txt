@@ -1,0 +1,14 @@
+Opinionated News Report
+Report Type: Monthly
+
+Summary:
+The articles reviewed this week show limited support for international values and may face some controversy or resistance.
+
+Detailed Analysis:
+
+Title: Title: World News: Latest International Headlines, Video, and Breaking Stories From Around The Globe | NBC News
+File: Fetched News\www_article.txt
+Opinion Score: 0.38
+Comments: This article shows limited alignment with international values and may be controversial.
+--------------------------------------------------
+
